@@ -8,7 +8,7 @@
 
 | # | コンペ名 | 順位 | リポジトリ |
 |---|---------|------|-----------|
-| 1 | [Predicting Heart Disease](https://www.kaggle.com/competitions/playground-series-s6e2) | 393/4371 (Top 9%) | [Repo](リンク) |
+| 1 | [Predicting Heart Disease](https://www.kaggle.com/competitions/playground-series-s6e2) | 393/4371 (Top 9%) | [Repo](https://github.com/s-sakamoto0720/kaggle-heart-disease) |
 
 ### Signate
 
