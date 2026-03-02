@@ -14,7 +14,7 @@
 
 | # | コンペ名 | 順位 | リポジトリ |
 |---|---------|------|-----------|
-| 1 | [SIGNATE × TECH OCEAN Student Cup 2025](https://user.competition.signate.jp/ja/competition/detail/?competition=385dcbba17b645f3ac10f827dfba03f6) | 36/245 (Top 15%) | [Repo](リンク) |
+| 1 | [SIGNATE × TECH OCEAN Student Cup 2025](https://user.competition.signate.jp/ja/competition/detail/?competition=385dcbba17b645f3ac10f827dfba03f6) | 36/245 (Top 15%) | [Repo](https://github.com/s-sakamoto0720/signate-student-cup-2025) |
 
 ## Repository Naming Convention
 
